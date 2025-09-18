@@ -23,14 +23,25 @@ O Slimo é um aplicativo revolucionário de controle alimentar que utiliza intel
 #### 📸 Controle de Calorias por Foto
 **"Controle suas calorias por foto - Tire uma foto da sua refeição e nossa inteligência artificial te diz as calorias e os nutrientes. Comer de forma saudável nunca foi tão fácil."**
 
+![Controle de Calorias por Foto](images/image1.png)
+![Controle de Calorias por Foto](images/image2.png)
+
 #### 🧠 Algoritmos Inteligentes
 **"Algoritmos que trabalham por você - Defina seu objetivo e nosso algoritmo cria metas de calorias e macronutrientes. Ele se ajusta semanalmente ao seu progresso para garantir que você atinja seus objetivos."**
+
+![Algoritmos Inteligentes](images/image3.png)
+![Algoritmos Inteligentes](images/image4.png)
 
 #### 🍽️ Calculadora Inteligente de Refeições
 **"Calculadora inteligente de refeições - Crie refeições com as quantidades de alimentos ajustadas automaticamente para suas metas. Chega de adivinhação na hora de montar o prato!"**
 
+![Calculadora Inteligente de Refeições](images/image5.png)
+![Calculadora Inteligente de Refeições](images/image6.png)
+
 #### 👨‍🍳 Receitas Adaptáveis
 **"Mais de 200 receitas deliciosas e adaptáveis - Com nosso recurso inédito de 'ajuste nutricional', você pode adaptar qualquer receita para suas necessidades calóricas. Coma o que você ama, sem sair da dieta."**
+
+![Receitas Adaptáveis](images/image7.png)
 
 ### 3. Call to Action (CTA)
 **"QUERO SER SLIMO"** - Botão principal para conversão
